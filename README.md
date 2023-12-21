@@ -1,2 +1,1 @@
-# saphira-dash
-saphira stock manager
+# stocks_monitor_v2
